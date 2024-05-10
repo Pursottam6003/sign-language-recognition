@@ -10,10 +10,6 @@
 /Images/
 completeData.zip
 classifier_w_audio_output.py
-model1.p 
-model3.p
-myOwndata.pickle
-prev_data.pickle
 data.zip 
 newmodel.p
 processed.zip 
@@ -22,7 +18,10 @@ keras_model.py
 data_details.txt
 data1.pickle
 completeData.zip 
-data.pickle
-model.p 
 labels.txt 
-keras_model.h5
+*.h5
+myvenv/
+*.pickle
+*.p
+*.sav
+*.zip
